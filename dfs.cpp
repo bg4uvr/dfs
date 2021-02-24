@@ -1,10 +1,9 @@
 // 《数独解算程序》
-// 原文URL https://blog.csdn.net/qq_42948504/article/details/82255456
 
-//风休住于2018.8.31编写完成
-//All Rights Reserved
+// 文章地址： https://blog.csdn.net/u011146504/article/details/114001662
 
-//by bg4uvr 修改完善了一些逻辑，填加了一些注释 @2021.2.23
+//原作：风休住 @2018.8.31
+//bg4uvr 修改完善了一些逻辑，填加了一些注释 @2021.2.23
 
 #include <iostream>
 using namespace std;
